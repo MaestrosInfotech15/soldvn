@@ -1,0 +1,9 @@
+[06-Oct-2017 12:48:12 Etc/GMT] PHP Notice:  Undefined index: email in /home/maestxno/public_html/11/hhc/admin/php/login.php on line 6
+[06-Oct-2017 12:48:27 Etc/GMT] PHP Notice:  Undefined index: email in /home/maestxno/public_html/11/hhc/admin/php/login.php on line 6
+[06-Oct-2017 12:48:29 Etc/GMT] PHP Notice:  Undefined index: email in /home/maestxno/public_html/11/hhc/admin/php/login.php on line 6
+[12-Oct-2017 14:07:04 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/maestxno/public_html/22/soldvn/admin/php/login.php on line 13
+[12-Oct-2017 14:07:48 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/maestxno/public_html/22/soldvn/admin/php/login.php on line 13
+[12-Oct-2017 14:07:49 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/maestxno/public_html/22/soldvn/admin/php/login.php on line 13
+[12-Oct-2017 14:07:56 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/maestxno/public_html/22/soldvn/admin/php/login.php on line 13
+[12-Oct-2017 14:08:15 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/maestxno/public_html/22/soldvn/admin/php/login.php on line 13
+[12-Oct-2017 14:08:18 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/maestxno/public_html/22/soldvn/admin/php/login.php on line 13

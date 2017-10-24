@@ -1,0 +1,2 @@
+[12-Oct-2017 14:09:59 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/maestxno/public_html/22/soldvn/admin/common/config.php on line 14
+[12-Oct-2017 14:09:59 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/maestxno/public_html/22/soldvn/admin/common/config.php on line 14
